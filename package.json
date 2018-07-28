@@ -12,5 +12,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/cbacklund/dog-grooming-site.git",
+  "author": "Craig Backlund <craig.backlund@gmail.com>",
+  "license": "MIT"
 }
